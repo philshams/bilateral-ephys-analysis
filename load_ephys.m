@@ -192,10 +192,12 @@ show_correlation_plot = true;
 depth_correlation
 contralateral_depth_correlation
 
+getting_correlations_across_time = false;
 unit_correlation
 contralateral_unit_correlation
 
-pairwise_correlations_over_time % this one takes a while
+getting_correlations_across_time = true;
+pairwise_correlations_over_time % this one takes quite a while
 
 
 
